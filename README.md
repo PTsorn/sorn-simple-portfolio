@@ -1,5 +1,7 @@
 # Data Analyst Portfolio - Sorn Tayakkanonta
 
+**Live Demo: [https://ptsorn.github.io/sorn-simple-portfolio/](https://ptsorn.github.io/sorn-simple-portfolio/)**
+
 A clean, modern, and responsive portfolio website showcasing my data analysis projects, technical skills, and experience.
 
 ## 🚀 Features
