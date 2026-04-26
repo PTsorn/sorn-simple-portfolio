@@ -38,7 +38,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/PTsorn/sorn-simple-portfolio.git
    ```
-2. Open `index.html` in your favorite web browser.
+2. Open `docs/index.html` in your favorite web browser.
 
 ---
 **Sorn Tayakkanonta**  
